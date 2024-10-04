@@ -1,6 +1,6 @@
 # Pedro Magalhães 👋
 
-**`Computer Engineer Student`**
+**`Software Engineering Student`**
 
 I am a passionate computer engineering student with a strong interest in software development and problem-solving. I enjoy exploring new technologies and applying them to create innovative solutions. With a solid foundation in programming languages such as Java, Python and diverse Web Technologies,  I am eager to expand my skills and contribute to exciting projects.
 
