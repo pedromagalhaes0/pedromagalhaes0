@@ -1,3 +1,2 @@
 - Software Engineer @ [storesace](https://storesace.com/) 
-- Project Manager @ [chift](https://chift.io/)
 - Side Projects: [Modus Labs](https://modus-labs.eu/join) & [Eunomia](https://www.eunom-ia.com/)
